@@ -1,0 +1,38 @@
+{
+    "manifest": {
+        "author": "🤸🌈#6515",
+        "version": "1.0.0",
+        "name": "Summer night"
+    },
+    "background": {
+        "overlay_alpha": 190,
+        "url": "https:\/\/media.discordapp.net\/attachments\/1089234712834363392\/1089234772204720228\/IMG_20230325_190216.png",
+        "blur_radius": 0
+    },
+    "fonts": {},
+    "simple_colors": {
+        "accent": -114267231,
+        "statusbar": -1104604575,
+        "background": 52891743,
+        "background_secondary": 86577761
+    },
+    "colors": {
+        "uikit_settings_item_text_color_light": -14852198,
+        "uikit_settings_item_text_color_dark": -14188851,
+        "uikit_btn_compound_color_selector_dark": -14188851,
+        "uikit_btn_compound_color_selector_light": -14915410,
+        "primary_dark_300": -14520653,
+        "primary_dark_360": -7094298,
+        "primary_dark_660": 1243770547,
+        "uikit_btn_bg_color_selector_red": -65536,
+        "uikit_btn_bg_color_selector_green": -7094298
+    },
+    "drawable_tints": {
+        "drawable_overlay_channels_selected_dark": -15184000,
+        "ic_sidebar_notifications_on_dark_24dp": -14188851,
+        "ic_sidebar_notifications_off_dark_24dp": -14987395,
+        "ic_sidebar_pins_on_dark_24dp": -14188851,
+        "ic_sidebar_pins_off_dark_24dp": -14987395
+    },
+    "raws": {}
+}

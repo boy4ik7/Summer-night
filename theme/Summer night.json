@@ -2,7 +2,8 @@
     "manifest": {
         "author": "🤸🌈#6515",
         "version": "1.0.0",
-        "name": "Summer night"
+        "name": "Summer night",
+        "updater": "https:\/\/raw.githubusercontent.com\/ivan-bashlak\/Summer-night\/main\/theme\/Summer%20night.json"
     },
     "background": {
         "overlay_alpha": 190,

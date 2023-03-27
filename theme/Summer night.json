@@ -1,43 +1,53 @@
 {
-  "manifest": {
-    "author": "🤸🌈#6515",
-    "version": "1.0.1",
-    "name": "Summer night",
-    "updater": "https://raw.githubusercontent.com/ivan-bashlak/Summer-night/main/theme/Summer%20night.json",
-    "transparency_mode": 3
-  },
-  "background": {
-    "url": "https://media.discordapp.net/attachments/1089234712834363392/1089234772204720228/IMG_20230325_190216.png",
-    "blur_radius": 0,
-    "overlay_alpha": 190
-  },
-  "fonts": {},
-  "simple_colors": {
-    "accent": -114267231,
-    "statusbar": -1104604575,
-    "background": 640094303,
-    "background_secondary": 858329697
-  },
-  "colors": {
-    "uikit_settings_item_text_color_light": -14852198,
-    "uikit_settings_item_text_color_dark": -14188851,
-    "uikit_btn_compound_color_selector_dark": -14188851,
-    "uikit_btn_compound_color_selector_light": -14915410,
-    "primary_dark_300": -14520653,
-    "primary_dark_360": -7094298,
-    "primary_dark_660": 1243770547,
-    "uikit_btn_bg_color_selector_red": 14188851,
-    "uikit_btn_bg_color_selector_green": -7094298,
-    "primary_dark_800": -10843649,
-    "white_500": -5385486,
-    "primary_dark_330": -13348970
-  },
-  "drawable_tints": {
-    "drawable_overlay_channels_selected_dark": -15184000,
-    "ic_sidebar_notifications_on_dark_24dp": -14188851,
-    "ic_sidebar_notifications_off_dark_24dp": -14987395,
-    "ic_sidebar_pins_on_dark_24dp": -14188851,
-    "ic_sidebar_pins_off_dark_24dp": -14987395
-  },
-  "raws": {}
+    "manifest": {
+        "author": "🤸🌈#6515",
+        "version": "1.0.2",
+        "transparency_mode": 3,
+        "name": "Summer night",
+        "updater": "https:\/\/raw.githubusercontent.com\/boy4ik7\/Summer-night\/main\/theme\/Summer%20night.json"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/1089234712834363392\/1089234772204720228\/IMG_20230325_190216.png",
+        "blur_radius": 0,
+        "overlay_alpha": 190
+    },
+    "fonts": {},
+    "simple_colors": {
+        "accent": -114267231,
+        "statusbar": -1104604575,
+        "background": 640094303,
+        "background_secondary": 858329697,
+        "blocked_bg": 1259143714,
+        "input_background": -1726807745,
+        "mention_highlight": 824671949
+    },
+    "colors": {
+        "uikit_settings_item_text_color_light": -14852198,
+        "uikit_settings_item_text_color_dark": -16099942,
+        "uikit_btn_compound_color_selector_dark": -14188851,
+        "uikit_btn_compound_color_selector_light": -14915410,
+        "primary_dark_300": -14520653,
+        "primary_dark_360": -7094298,
+        "primary_dark_660": 1243770547,
+        "uikit_btn_bg_color_selector_red": -10382142,
+        "uikit_btn_bg_color_selector_green": -9459234,
+        "primary_dark_800": -468121280,
+        "white_500": -5843457,
+        "primary_dark_330": -13348970,
+        "link": -14188851,
+        "link_500": -15450265,
+        "brand_560": -14188851,
+        "primary_700": 2133398113,
+        "transparent": 858329697,
+        "primary_dark_630": 840434759
+    },
+    "drawable_tints": {
+        "drawable_overlay_channels_selected_dark": -15184000,
+        "ic_sidebar_notifications_on_dark_24dp": -14188851,
+        "ic_sidebar_notifications_off_dark_24dp": -14987395,
+        "ic_sidebar_pins_on_dark_24dp": -14188851,
+        "ic_sidebar_pins_off_dark_24dp": -14987395,
+        "drawable_voice_user_background_speaking": -15914685
+    },
+    "raws": {}
 }
